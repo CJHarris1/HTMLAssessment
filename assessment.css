@@ -59,3 +59,7 @@ ol li:first-child{
 tr:nth-child(even){
   background-color: orange;
 }
+
+#teamRoster>li {
+  list-style-type: none;
+}
